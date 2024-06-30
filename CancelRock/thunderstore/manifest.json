@@ -1,0 +1,9 @@
+{
+  "name": "CancelRock",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/CadeMH/Bopl-Mods/tree/master/CancelRock",
+  "description": "Allows you to cancel the rock ability by letting go of the ability button, instead of having to wait for the ability to finish.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
